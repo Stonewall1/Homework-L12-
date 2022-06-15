@@ -1,0 +1,4 @@
+Documento449 --- invalid document start name
+document&&^% --- invalid document start name
+docnum165 --- invalid document, because doc length must be 15 symbols
+contract234$$2! --- invalid document, because doc must contain only letters and numbers
